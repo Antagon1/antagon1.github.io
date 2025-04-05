@@ -1,2 +1,3 @@
-# antagonf.github.io
-World Radio API
+# Radio Stations Json Api
+
+Lists of worldwide radio stations.
